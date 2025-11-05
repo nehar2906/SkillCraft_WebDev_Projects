@@ -4,10 +4,10 @@
 SkillCraft Technology – Web Development Internship (November 2025)
 
 ### 🖥 Project Title:
-**Artistry Haven – Handmade Crafts Landing Page**
+**Eloura Crafts – Handmade Crafts Landing Page**
 
 ### 🧠 Objective:
-To create a simple, responsive landing page that showcases handmade crafts, pottery, and paintings with an elegant layout and interactive elements.
+To create a simple, responsive landing page that showcases handmade crafts, pottery, paintings & more with an elegant layout and interactive elements.
 
 ### ⚙️ Tools & Technologies Used:
 - HTML  
